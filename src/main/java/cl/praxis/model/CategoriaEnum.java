@@ -1,2 +1,6 @@
-package cl.praxis.model;public enum CategoriaEnum {
+package cl.praxis.model;
+
+public enum CategoriaEnum {
+    Activo,
+    Inactivo
 }

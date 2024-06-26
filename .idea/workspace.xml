@@ -4,34 +4,79 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5e4c787-545a-4a58-99ec-bdb611800551" name="Changes" comment="" />
+    <list default="true" id="d5e4c787-545a-4a58-99ec-bdb611800551" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/praxis/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cl/praxis/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/praxis/model/CategoriaEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cl/praxis/model/CategoriaEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/praxis/model/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cl/praxis/model/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/praxis/service/ArchivoServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cl/praxis/service/ArchivoServicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/praxis/service/ClienteServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cl/praxis/service/ClienteServicio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/praxis/service/Exportador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cl/praxis/service/Exportador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/praxis/service/ExportadorCsv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cl/praxis/service/ExportadorCsv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/praxis/service/ExportadorTxt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cl/praxis/service/ExportadorTxt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/praxis/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cl/praxis/utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cl/praxis/view/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cl/praxis/view/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cl/praxis/ClienteServicioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cl/praxis/ClienteServicioTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/arsato/M4_PruebaSistemaDeClientes.git",
+    "accountId": "6d861221-bd28-4b31-ac36-fa98b17e1ca3"
+  }
 }]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2iLcEtLvQTtiN29rc7q5CNyHAyd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.ClienteServicioTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.PruebaSistemaDeClientes [clean].executor": "Run",
+    "Maven.PruebaSistemaDeClientes [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cl.praxis.view" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -48,7 +93,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719273194573</updated>
-      <workItem from="1719273195900" duration="9000" />
+      <workItem from="1719273195900" duration="9056000" />
+      <workItem from="1719324032623" duration="248000" />
+      <workItem from="1719324289689" duration="66000" />
+      <workItem from="1719324367480" duration="1985000" />
+      <workItem from="1719367423078" duration="90000" />
+      <workItem from="1719375041155" duration="5776000" />
+      <workItem from="1719409718373" duration="5579000" />
     </task>
     <servers />
   </component>
